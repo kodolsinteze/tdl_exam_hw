@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lingo</string>
+    <string name="new_game">New game</string>
+    <string name="length_error">Input must be 4 number</string>
+    <string name="input_error">Wrong input format</string>
+    <string name="new_todo">Enter 4 digits</string>
+    <string name="try_amount">Amount of tries: %d</string>
+    <string name="add">Add</string>
+    <string name="your_result">Your result</string>
+    <string name="return_to_menu">Return to menu</string>
+    <string name="title">Title</string>
+</resources>
